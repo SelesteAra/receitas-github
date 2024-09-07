@@ -14,6 +14,11 @@ let dados = [
             titulo: "Smoothie Verde Detox",
             descricao: " Um smoothie nutritivo e saboroso para começar o dia com energia. Rico em vitaminas e minerais, perfeito para uma dieta equilibrada.",
             link: <a href="https://www.receitasfit.com.br/smoothie-verde" target="_blank">Mais informações</a>
+    },
+    {
+            titulo: "Smoothie Verde Detox",
+            descricao: " Um smoothie nutritivo e saboroso para começar o dia com energia. Rico em vitaminas e minerais, perfeito para uma dieta equilibrada.",
+            link: <a href="https://www.receitasfit.com.br/smoothie-verde" target="_blank">Mais informações</a>
     }
  ];
 
